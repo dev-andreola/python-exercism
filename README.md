@@ -1,7 +1,5 @@
 # Python Exercism
 
-<img src="readme-banner.png" align="center"/>
-
 ## Overview
 
 Exercism is a free platform to learn programming languages through exercises. Each language has a track of challenges organized gradually.
